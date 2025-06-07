@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  title: for-serverless-telegram-bot
+  version: 1.0.0
+paths:
+  /<имя_функции>:
+    post:
+      x-yc-apigateway-integration:
+        type: cloud_functions
+        function_id: <идентификатор_функции>
+        service_account_id: <идентификатор_сервисного_аккаунта>
