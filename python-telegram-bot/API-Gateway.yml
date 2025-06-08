@@ -1,0 +1,14 @@
+openapi: "3.0.0"
+info:
+  version: 1.0.0
+  title: Test API
+paths:
+  /echo:
+    post:
+      x-yc-apigateway-integration:
+        type: cloud_ymq
+        action: SendMessage
+        queue_url: https://message-queue.api.cloud.yandex.net/b1go5m8q**********c1/dj6000**********07st/tg-bot-app-dt9**********0jemgms
+        folder_id: b1gmmq88**********ct
+        delay_seconds: 0
+        service_account_id: aje4m7v**********mji

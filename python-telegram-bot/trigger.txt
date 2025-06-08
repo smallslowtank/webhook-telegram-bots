@@ -1,0 +1,26 @@
+Триггер
+
+Идентификатор               a1sfkr**********bct6
+Имя                         tg-bot-app-dt9**********0jemgms
+Статус                      Active
+Метки                       managed-by:yc-cloudapps
+                            yc-cloudapps-application-id:d7fghj2**********2po
+Дата создания               08.06.2025, в 10:41
+
+
+Настройки сообщений Message Queue
+
+Очередь                     tg-bot-app-dt9**********0jemgms
+Сервисный аккаунт           tg-bot-trigger-dt9**********0jemgms
+
+
+Настройки группирования сообщений
+
+Время ожидания              1 секунда
+Размер группы сообщений     1
+
+
+Настройки функции
+
+Функция                     tg-bot-app-dt9**********0jemgms
+Сервисный аккаунт           tg-bot-trigger-dt9**********0jemgms
