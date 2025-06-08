@@ -3,16 +3,6 @@
 https://core.telegram.org/api
 
 ---
-Документация Yandex Cloud Functions
-
-https://yandex.cloud/ru/docs/functions
-
----
-Документация Yandex API Gateway
-
-https://yandex.cloud/ru/docs/api-gateway
-
----
 Документация aiogram
 
 https://docs.aiogram.dev
@@ -26,6 +16,26 @@ https://pytba.readthedocs.io/ru/latest/index.html
 Документация python-telegram-bot
 
 https://docs.python-telegram-bot.org
+
+---
+Документация Yandex API Gateway
+
+https://yandex.cloud/ru/docs/api-gateway
+
+---
+Документация Yandex Message Queue
+
+https://yandex.cloud/ru/docs/message-queue
+
+---
+Документация Yandex Cloud Functions
+
+https://yandex.cloud/ru/docs/functions
+
+---
+Триггер для Message Queue, который передает сообщения в функцию Cloud Functions
+
+https://yandex.cloud/ru/docs/functions/concepts/trigger/ymq-trigger
 
 ---
 Практикум. «Создание Telegram-бота с использованием serverless»

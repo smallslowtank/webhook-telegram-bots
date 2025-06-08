@@ -21,3 +21,5 @@ https://yandex.cloud/ru/marketplace/products/yc/yagpt-telegram-bot
 6.подключить вебхук к гейтвею
 
 Практически везде используются настройки по умолчанию.
+
+Ссылки на документацию есть в папке docs
